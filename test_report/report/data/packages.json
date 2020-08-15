@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_case.test_baidu",
+    "children" : [ {
+      "name" : "test_baidu[text0]",
+      "uid" : "da760be248b24ff2",
+      "parentUid" : "f9a41f998522ee7db55b68e582710d33",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597504686745,
+        "stop" : 1597504690056,
+        "duration" : 3311
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "['conan']" ]
+    }, {
+      "name" : "test_baidu[霍格沃兹测试学院]",
+      "uid" : "941807d5fd7e8e13",
+      "parentUid" : "f9a41f998522ee7db55b68e582710d33",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597505470953,
+        "stop" : 1597505473190,
+        "duration" : 2237
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'霍格沃兹测试学院'" ]
+    } ],
+    "uid" : "test_case.test_baidu"
+  } ]
+}

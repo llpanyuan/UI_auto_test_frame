@@ -1,0 +1,43 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_case",
+    "children" : [ {
+      "name" : "test_baidu",
+      "children" : [ {
+        "name" : "TestClass",
+        "children" : [ {
+          "name" : "test_baidu[text0]",
+          "uid" : "da760be248b24ff2",
+          "parentUid" : "eddd20958b15cfa7e8703b50a296f0cf",
+          "status" : "passed",
+          "time" : {
+            "start" : 1597504686745,
+            "stop" : 1597504690056,
+            "duration" : 3311
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "['conan']" ]
+        }, {
+          "name" : "test_baidu[霍格沃兹测试学院]",
+          "uid" : "941807d5fd7e8e13",
+          "parentUid" : "eddd20958b15cfa7e8703b50a296f0cf",
+          "status" : "passed",
+          "time" : {
+            "start" : 1597505470953,
+            "stop" : 1597505473190,
+            "duration" : 2237
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'霍格沃兹测试学院'" ]
+        } ],
+        "uid" : "eddd20958b15cfa7e8703b50a296f0cf"
+      } ],
+      "uid" : "949240ed60ad94a0604dafe93441d5e7"
+    } ],
+    "uid" : "86abcc46617c603d802c3e378b13740e"
+  } ]
+}

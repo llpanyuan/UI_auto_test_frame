@@ -1,0 +1,21 @@
+[ {
+  "uid" : "da760be248b24ff2",
+  "name" : "test_baidu[text0]",
+  "time" : {
+    "start" : 1597504686745,
+    "stop" : 1597504690056,
+    "duration" : 3311
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "941807d5fd7e8e13",
+  "name" : "test_baidu[霍格沃兹测试学院]",
+  "time" : {
+    "start" : 1597505470953,
+    "stop" : 1597505473190,
+    "duration" : 2237
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

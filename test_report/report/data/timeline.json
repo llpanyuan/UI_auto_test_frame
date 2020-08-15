@@ -1,0 +1,43 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "ll手可摘星辰",
+    "children" : [ {
+      "name" : "7960-MainThread",
+      "children" : [ {
+        "name" : "test_baidu[text0]",
+        "uid" : "da760be248b24ff2",
+        "parentUid" : "77281cd2b351cfd1b000ea656498115a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597504686745,
+          "stop" : 1597504690056,
+          "duration" : 3311
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['conan']" ]
+      } ],
+      "uid" : "77281cd2b351cfd1b000ea656498115a"
+    }, {
+      "name" : "12260-MainThread",
+      "children" : [ {
+        "name" : "test_baidu[霍格沃兹测试学院]",
+        "uid" : "941807d5fd7e8e13",
+        "parentUid" : "bb4b1b142651c5f84cf9ab9a220c558b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597505470953,
+          "stop" : 1597505473190,
+          "duration" : 2237
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'霍格沃兹测试学院'" ]
+      } ],
+      "uid" : "bb4b1b142651c5f84cf9ab9a220c558b"
+    } ],
+    "uid" : "2f70b5d7702355a3b30a55518a7ff630"
+  } ]
+}

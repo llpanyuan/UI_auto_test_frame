@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Aug 15 23:18:06 CST 2020","Sat Aug 15 23:18:10 CST 2020","3311","test_case","test_baidu","TestClass","","","test_baidu[text0]","用例开始时间:2020-08-15 23:18:06.744574"
+"passed","Sat Aug 15 23:31:10 CST 2020","Sat Aug 15 23:31:13 CST 2020","2237","test_case","test_baidu","TestClass","","","test_baidu[霍格沃兹测试学院]","用例开始时间:2020-08-15 23:31:10.952507"

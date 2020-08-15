@@ -1,0 +1,103 @@
+{
+  "uid" : "da760be248b24ff2",
+  "name" : "test_baidu[text0]",
+  "fullName" : "test_case.test_baidu.TestClass#test_baidu",
+  "historyId" : "ca3284e5a4b6a7a0b85f0912120ad24a",
+  "time" : {
+    "start" : 1597504686745,
+    "stop" : 1597504690056,
+    "duration" : 3311
+  },
+  "description" : "用例开始时间:2020-08-15 23:18:06.744574",
+  "descriptionHtml" : "<p>用例开始时间:2020-08-15 23:18:06.744574</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1597504662583,
+      "stop" : 1597504663390,
+      "duration" : 807
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "用例开始时间:2020-08-15 23:18:06.744574",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9a125256a470a06e",
+      "name" : "用例执行成功截图",
+      "source" : "9a125256a470a06e.png",
+      "type" : "image/png",
+      "size" : 15197
+    }, {
+      "uid" : "df6fa77de919e385",
+      "name" : "浏览器控制台日志",
+      "source" : "df6fa77de919e385.txt",
+      "type" : "text/plain",
+      "size" : 347
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_baidu"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "ll手可摘星辰"
+  }, {
+    "name" : "thread",
+    "value" : "7960-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_baidu"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "text",
+    "value" : "['conan']"
+  } ],
+  "links" : [ {
+    "name" : "百度搜索功能测试",
+    "url" : "https://www.baidu.com",
+    "type" : "test_case"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "da760be248b24ff2.json",
+  "parameterValues" : [ "['conan']" ]
+}
